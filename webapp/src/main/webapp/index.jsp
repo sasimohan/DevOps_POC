@@ -10,42 +10,26 @@
 		
 		.container {
 			width: 80%;
-			margin: 0 auto;
-			padding-top: 50px;
-			text-align: center;
+			margin: 50px auto; /* add margin to center the container */
+			padding: 20px; /* add some padding to create space around the content */
 			background-color: #fff;
 			border-radius: 10px;
 			box-shadow: 0 0 10px rgba(0,0,0,0.2);
+			text-align: justify; /* align the text to justify */
+			line-height: 1.5; /* increase the line height for better readability */
 		}
 		
 		h1 {
 			font-size: 48px;
-			color: #333;
-			margin-bottom: 50px;
+			color: #1E90FF; /* Dark blue */
+			margin-bottom: 20px; /* reduce the margin to create less space between the heading and the paragraph */
 			text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 		}
 		
 		p {
 			font-size: 24px;
-			color: #666;
-			line-height: 1.5;
-			text-align: justify;
-			margin-bottom: 30px;
-		}
-		
-		/* Add some color to the website */
-		
-		h1 {
-			color: #1E90FF; /* Dark blue */
-		}
-		
-		p {
 			color: #696969; /* Dark gray */
-		}
-		
-		.container {
-			background-color: #F5F5F5; /* Light gray */
-			border: 1px solid #1E90FF; /* Dark blue */
+			margin-bottom: 30px;
 		}
 		
 	</style>
