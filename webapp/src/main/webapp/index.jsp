@@ -10,8 +10,8 @@
 		
 		.container {
 			width: 80%;
-			margin: 50px auto; /* add margin to center the container */
-			padding: 20px; /* add some padding to create space around the content */
+			margin: 70px auto; /* add margin to center the container */
+			padding: 35px; /* add some padding to create space around the content */
 			background-color: #fff;
 			border-radius: 10px;
 			box-shadow: 0 0 10px rgba(0,0,0,0.2);
@@ -21,9 +21,10 @@
 		
 		h1 {
 			font-size: 48px;
-			color: #1E90FF; /* Dark blue */
+			color: #6E90FF; /* Dark blue */
 			margin-bottom: 20px; /* reduce the margin to create less space between the heading and the paragraph */
 			text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+			text-align: center;
 		}
 		
 		p {
