@@ -21,7 +21,7 @@
 		
 		h1 {
 			font-size: 48px;
-			color: #252b66; /* Dark blue */
+			color: #8cc400; /* Dark blue */
 			margin-bottom: 20px; /* reduce the margin to create less space between the heading and the paragraph */
 			text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 			text-align: center;
